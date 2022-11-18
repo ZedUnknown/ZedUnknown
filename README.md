@@ -1,12 +1,11 @@
 <h1 align="center">
   <a>
-    <img width="50px" src="https://user-images.githubusercontent.com/116058155/202480410-838835f0-8a1b-4800-99fc-bb0a719825f2.gif"/>
+    <img width="50px" src="https://user-images.githubusercontent.com/116058155/202630508-48b6a0f9-7dd7-4180-a648-d51e4fab8927.gif" />
   </a>
   <a><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Japanese&size=35&duration=3500&pause=3000&color=AE2828&center=true&vCenter=true&width=500&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC+!" /></a>
 
   <a target="main">
-    <img width="50px" src="![github](https://user-images.githubusercontent.com/116058155/202630508-48b6a0f9-7dd7-4180-a648-d51e4fab8927.gif)
-"/>
+    <img width="50px" src="https://user-images.githubusercontent.com/116058155/202630508-48b6a0f9-7dd7-4180-a648-d51e4fab8927.gif" />
     
   </a>
 </h1>
