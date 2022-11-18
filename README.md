@@ -15,7 +15,7 @@
 </p align="center">
 
 <a>
-    <img align="right" width="150px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/Assets/gif/programmer.gif" />
+    <img align="right" width="350px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/Assets/gif/programmer.gif" />
 </a>
 
 - 👋 Hi, I’m Zed
