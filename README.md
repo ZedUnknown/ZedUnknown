@@ -14,6 +14,10 @@
 <img width="830px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/Assets/png/banner-resized.png" />
 </p align="center">
 
+<a>
+    <img align="right" width="150px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/Assets/gif/programmer.gif" />
+</a>
+
 - 👋 Hi, I’m Zed
 - 🔭 I’m currently working on Terminal based python projects
 - 👀 I’m interested in to make my own python modules
