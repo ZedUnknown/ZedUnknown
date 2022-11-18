@@ -10,6 +10,10 @@
   </a>
 </h1>
 
+<p align="center">
+<img width="830px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/Assets/png/banner.png" />
+</p align="center">
+
 - 👋 Hi, I’m Zed
 - 🔭 I’m currently working on Terminal based python projects
 - 👀 I’m interested in to make my own python modules
