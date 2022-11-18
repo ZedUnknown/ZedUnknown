@@ -14,8 +14,12 @@
 <img width="830px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/Assets/png/banner-resized.png" />
 </p align="center">
 
+<br/>
+<br/>
+<br/>
+
 <a>
-    <img align="right" width="350px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/Assets/gif/programmer.gif" />
+    <img align="right" width="350px" height="295" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/Assets/gif/programmer.gif" />
 </a>
 
 - 👋 Hi, I’m Zed
