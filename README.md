@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-<img width="830px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/Assets/png/banner-resized.png" />
+<img src="https://github.com/ZedUnknown/ZedUnknown/blob/main/Assets/gif/intro.gif" />
 </p align="center">
 
 <br/>
