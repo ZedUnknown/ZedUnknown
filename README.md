@@ -34,27 +34,35 @@
 <img herf="https://wa.me/message/4CNADM4GWHQQL1" width="35" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/whatsapp.png "/>
 </p>
 
-<hr>
+<br/>
 <h2 align="center">
   Languages & Tools
 </h2>
 
 <p align="center">
 <img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/python.png"/>
+&nbsp;
 <img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/java-script.png"/>
+&nbsp;
 <img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/cplusplus.png"/>
+&nbsp;
 <img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/c.png"/>
 </p>
-#
+<br/>
 <p align="center">
 <img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/git.png"/>
+&nbsp;
 <img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/firebase.png"/>
+&nbsp;
 <img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/vs-code.png"/>
+&nbsp;
 <img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/jupyter.png"/>
+&nbsp;
 <img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/ubuntu.png"/>
 
 <br/>
-
+<br/>
+<br/>
 
 <h2 align="center">
   My GitHub Stats
@@ -64,6 +72,10 @@
   <img  src = "https://github-readme-stats.vercel.app/api?username=ZedUnknown&show_icons=true&theme=radical&line_height=30">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZedUnknown&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
+
+<br/>
+<br/>
+<br/>
 
 <h2 align="center">
   My Contribution Graph
