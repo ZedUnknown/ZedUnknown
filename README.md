@@ -12,10 +12,6 @@
 <br/>
 <br/>
 
-<a>
-    <img align="right" width="350px" height="295" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/terminal.gif" />
-</a>
-
 ### Hi there 👋, I'm Zed
 - 👋 Hi, I’m Zed
 - 🔭 I’m currently working on Terminal based python projects
@@ -27,35 +23,38 @@
 - 📫 How to reach me: [Developer Portal](**coding.developerportal@gmail.com**)
 
 <br/>
-<br/>
-<hr>
 
 ### Connect with me:
 
-[![website](./img/ico/social-media/gmail.png)](coding.developerportal@gmail.com)
-[![website](./img/ico/social-media/discord.png)](https://discordapp.com/users/770312122273234955)
-[![website](./img/ico/social-media/whatsapp.png)](https://wa.me/message/4CNADM4GWHQQL1)
+<p align="left">
+<img herf="coding.developerportal@gmail.com" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/gmail.png"/>
 
-### Languages and tools
-<code>
-<img height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/python.png" >
-<img height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/java-script.png" >
-<img height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/cplusplus.png" >
-<img height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/c.png" ></code>
+<img herf="https://discordapp.com/users/770312122273234955" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/discord.png"/>
 
-#
-
-<code>
-<img height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/git.png" >
-<img height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/firebase.png" >
-<img height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/vs-code.png" >
-<img height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/jupyter.png" >
-<img height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/ubuntu.png" ></code>
-
-<br/>
-<br/>
+<img herf="https://wa.me/message/4CNADM4GWHQQL1" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/whatsapp.png "/>
+</p>
 
 <hr>
+<h2 align="center">
+  Languages & Tools
+</h2>
+
+<p align="center">
+<img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/python.png"/>
+<img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/java-script.png"/>
+<img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/cplusplus.png"/>
+<img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/c.png"/>
+</p>
+#
+<p align="center">
+<img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/git.png"/>
+<img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/firebase.png"/>
+<img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/vs-code.png"/>
+<img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/jupyter.png"/>
+<img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/ubuntu.png"/>
+
+<br/>
+
 
 <h2 align="center">
   My GitHub Stats
@@ -66,7 +65,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZedUnknown&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
-<hr>
 <h2 align="center">
   My Contribution Graph
 </h2>
