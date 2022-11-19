@@ -27,11 +27,11 @@
 ### Connect with me:
 
 <p align="left">
-<img herf="coding.developerportal@gmail.com" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/gmail.png"/>
-
-<img herf="https://discordapp.com/users/770312122273234955" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/discord.png"/>
-
-<img herf="https://wa.me/message/4CNADM4GWHQQL1" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/whatsapp.png "/>
+<img herf="coding.developerportal@gmail.com" width="35" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/gmail.png"/>
+&nbsp;
+<img herf="https://discordapp.com/users/770312122273234955" width="35" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/discord.png"/>
+&nbsp;
+<img herf="https://wa.me/message/4CNADM4GWHQQL1" width="35" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/whatsapp.png "/>
 </p>
 
 <hr>
