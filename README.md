@@ -9,8 +9,9 @@
  
 </h1>
 
+
 <p align="center">
-<img src="https://github.com/ZedUnknown/ZedUnknown/blob/main/Assets/gif/intro.gif" />
+<img src="https://github.com/ZedUnknown/ZedUnknown/blob/main/Assets/gif/intro.mp4" />
 </p align="center">
 
 <br/>
@@ -35,3 +36,5 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ZedUnknown?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/ZedUnknown?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZedUnknown)](https://github.com/ZedUnknown/github-readme-stats)
