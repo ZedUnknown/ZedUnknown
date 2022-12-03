@@ -12,7 +12,9 @@
 <br/>
 <br/>
 
-<img width="1280px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/background.gif" />
+<img width="1012px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/background.gif" />
+
+Everyday, I start with my coffee
 
 ### Hi there 👋, I'm Zed
 - 👋 Hi, I’m Zed
