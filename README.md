@@ -12,6 +12,8 @@
 <br/>
 <br/>
 
+<img width="1280px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/background.gif" />
+
 ### Hi there 👋, I'm Zed
 - 👋 Hi, I’m Zed
 - 🔭 I’m currently working on Terminal based python projects
