@@ -81,9 +81,8 @@
   My Contribution Graph
 </h2>
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ZedUnknown&theme=redical">
-</p>
+![snake gif](https://github.com/ZedUnknown/ZedUnknown/blob/output/github-contribution-grid-snake.gif)
+
 <br/>
 <br/>
 <hr>
