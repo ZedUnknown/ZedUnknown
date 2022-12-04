@@ -42,6 +42,12 @@ Start day with a lovely coffee!
 </p>
 
 <br/>
+
+*** I'm listening to:
+[![Spotify](https://spotify-nine-ecru.vercel.app/api/spotify)](https://open.spotify.com/user/31dbsmr6z5qjihb3vjniszbwgu5y?si=b27a57a87e40409f)
+
+<br/>
+
 <h2 align="center">
   Languages & Tools
 </h2>
