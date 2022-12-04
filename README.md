@@ -72,7 +72,7 @@ Start day with a lovely coffee!
 <br/>
 
 <h2 align="center">
-  My GitHub Stats
+  GitHub Stats
 </h2>
 
 <p align = "center">
@@ -85,7 +85,7 @@ Start day with a lovely coffee!
 <br/>
 
 <h2 align="center">
-  My Contribution Graph
+  Contribution Graph
 </h2>
 
 ![snake gif](https://github.com/ZedUnknown/ZedUnknown/blob/output/github-contribution-grid-snake.gif)
