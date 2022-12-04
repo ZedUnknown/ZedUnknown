@@ -12,11 +12,8 @@
 
 <img width="1012px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/background.gif"/>
 
-<a>
-  <img width="25px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/png/coffee-beans.png" />
-   Life truly begins after the first glorious sip!
-  <img width="25px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/png/coffee-cup.png" />
-</a>
+<a><h4><img width="17px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/png/coffee-beans.png" />
+   Life truly begins after the first glorious sip!</h4></a>
 
 [<img align="right" width="512px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/terminal-transparent.gif" >](https://blank.page)
 
