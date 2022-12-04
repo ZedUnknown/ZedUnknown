@@ -12,8 +12,13 @@
 
 <img width="1012px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/background.gif"/>
 
-
-Start day with a lovely coffee!
+<a>
+  <img width="25px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/png/coffee-beans.png" />
+</a>
+Life truly begins after the first glorious sip!
+<a>
+  <img width="25px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/png/coffee-cup.png" />
+</a>
 
 [<img align="right" width="512px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/terminal-transparent.gif" >](https://blank.page)
 
