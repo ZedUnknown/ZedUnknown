@@ -14,7 +14,11 @@
 
 <img width="1012px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/background.gif" />
 
-Everyday, I start with my coffee
+The difference between a good friend and a great friend is defined by the size of the coffee they bring me in the morning!
+
+<a>
+  <img align="right" width="856px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/terminal-transparent.gif" >
+</a>
 
 ### Hi there 👋, I'm Zed
 - 👋 Hi, I’m Zed
