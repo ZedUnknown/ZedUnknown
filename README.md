@@ -54,7 +54,7 @@
 
 
 <p align="center">
-[<img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/python.png" >](https://codewithmosh.com/p/python-programming-course-beginners)
+<img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/python.png"/>
 &nbsp;
 <img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/java-script.png"/>
 &nbsp;
@@ -74,6 +74,7 @@
 &nbsp;
 <img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/ubuntu.png"/>
 
+ </p>
 <br/>
 <br/>
 <br/>
