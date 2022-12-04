@@ -14,9 +14,7 @@
 
 <a>
   <img width="25px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/png/coffee-beans.png" />
-</a>
-Life truly begins after the first glorious sip!
-<a>
+   Life truly begins after the first glorious sip!
   <img width="25px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/png/coffee-cup.png" />
 </a>
 
