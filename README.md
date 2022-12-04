@@ -14,11 +14,13 @@
 
 <img width="1012px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/background.gif" />
 
-The difference between a good friend and a great friend is defined by the size of the coffee they bring me in the morning!
+Start day with a lovely coffee!
 
 <a>
-  <img align="right" width="856px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/terminal-transparent.gif" >
+  <img align="right" width="512px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/terminal-transparent.gif" >
 </a>
+
+<br/>
 
 ### Hi there 👋, I'm Zed
 - 👋 Hi, I’m Zed
