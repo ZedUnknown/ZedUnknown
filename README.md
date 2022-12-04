@@ -2,17 +2,14 @@
   <a>
     <img width="50px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/github.gif" />
   </a>
-  <a><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Japanese&size=35&duration=3500&pause=3000&color=AE2828&center=true&vCenter=true&width=450&height=40&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC+!" /></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Japanese&size=35&duration=3500&pause=3000&color=00cf03&center=true&vCenter=true&width=450&height=40&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC+!" /></a>
   <a>
     <img width="50px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/github.gif" />
  </a>
  
 </h1>
 
-<br/>
-<br/>
-
-<img width="1012px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/background.gif" />
+<img herf="https://blank.page" width="1012px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/background.gif" />
 
 Start day with a lovely coffee!
 
