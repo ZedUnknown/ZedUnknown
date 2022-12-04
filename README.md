@@ -52,8 +52,9 @@
   Languages & Tools
 </h2>
 
+
 <p align="center">
-<img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/python.png"/>
+[<img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/python.png" >](https://codewithmosh.com/p/python-programming-course-beginners)
 &nbsp;
 <img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/java-script.png"/>
 &nbsp;
@@ -100,5 +101,3 @@
 <br/>
 <br/>
 <hr>
-
-![footer](https://)
