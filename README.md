@@ -9,13 +9,13 @@
  
 </h1>
 
-<img herf="https://blank.page" width="1012px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/background.gif" />
+
+<img width="1012px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/background.gif"/>
+
 
 Start day with a lovely coffee!
 
-<a>
-  <img align="right" width="512px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/terminal-transparent.gif" >
-</a>
+[<img align="right" width="512px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/terminal-transparent.gif" >](https://blank.page)
 
 <br/>
 
