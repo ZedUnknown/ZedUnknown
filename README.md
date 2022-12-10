@@ -15,7 +15,7 @@
 <a><h4><img width="17px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/png/coffee-beans.png" />
    Life truly begins after the first glorious sip!</h4></a>
 
-[<img align="right" width="450px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/terminal-transparent.gif" >](https://blank.page)
+[<img align="right" width="412px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/terminal-transparent.gif" >](https://blank.page)
 
 <br/>
 
