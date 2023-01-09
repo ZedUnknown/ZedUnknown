@@ -84,8 +84,8 @@
 </h2>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ZedUnknown&show_icons=true&theme=radical&line_height=30">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZedUnknown&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats-sigma-five.vercel.app/api?username=ZedUnknown&show_icons=true&theme=radical&line_height=30">
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZedUnknown&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <br/>
