@@ -21,12 +21,11 @@
 
 ### Hi there 👋, I'm Zed
 - 👋 Hi, I’m Zed
-- 🔭 I’m currently working on Terminal based python projects
+- 🔭 I’m working on python projects: Linux Tools, Scikit-learn
 - 👀 I’m interested in to make my own python modules
 - 📕 I'm currently learning Data science and Machine learning
 - 🤝 I'm looking to collaborate on Bug hunting
 - 🤔 I'm looking for help with my coding problems!
-- ⚡ Fun fact : I'm alone
 - 📫 How to reach me: [Developer Portal](**coding.developerportal@gmail.com**)
 
 <br/>
