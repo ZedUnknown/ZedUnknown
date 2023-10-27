@@ -95,10 +95,12 @@
 <br/>
 <br/>
 <br/>
-
+  
 <div align="center">
   <h2>Contribution Graph</h2>
-  <a href="#"><img alt="snake eating my contribution" src="https://github.com/ZedUnknown/ZedUnknown/blob/output/github-contribution-grid-snake.gif"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZedUnknown/ZedUnknown/output/github-contribution-grid-snake-dark.svg">
+</picture>
 </div>
 
 <br/>
