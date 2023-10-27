@@ -98,7 +98,7 @@
 
 <div align="center">
   <h2>Contribution Graph</h2>
-  <a href="#"><img alt="snake eating my contribution" src="https://github.com/ZedUnknown/ZedUnknown/blob/output/github-contribution-grid-snake.svg"></a>
+  <a href="#"><img alt="snake eating my contribution" src="https://github.com/ZedUnknown/ZedUnknown/blob/output/github-contribution-grid-snake.gif"></a>
 </div>
 
 <br/>
