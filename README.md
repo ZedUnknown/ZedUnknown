@@ -81,17 +81,20 @@
 <h2 align="center">
   GitHub Stats
 </h2>
-
+                
 <p align = "center">
   <a href="#"><img  src = "https://github-readme-stats-sigma-five.vercel.app/api?username=ZedUnknown&show_icons=true&theme=radical&line_height=30"></a>
   <a href="#"><img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZedUnknown&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical"></a>
+</p>
+                
+&nbsp;              
+<p align='center'>
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ZedUnknown&theme=radical&title=Commits,Stars,Repositories,Experience&no-bg=true&no-frame=true&column=4"></a>
 </p>
 
 <br/>
 <br/>
 <br/>
-
-
 
 <div align="center">
   <h2>Contribution Graph</h2>
