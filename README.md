@@ -19,13 +19,12 @@
 
 <br/>
 
-### Hi there 👋, I'm Zed
-- 👋 Hi, I’m Zed
-- 🔭 I’m working on python projects: Linux Tools, Scikit-learn
-- 👀 I’m interested in to make my own python modules
-- 📕 I'm currently learning Data science and Machine learning
-- 🤝 I'm looking to collaborate on Bug hunting
-- 🤔 I'm looking for help with my coding problems!
+### Hi there! I'm Zed 👋
+- 🔭 Currently, I'm focused on backend projects.
+- 👀 I'm passionate about creating useful software.
+- 📕 I'm actively learning Redhat, Frontend Development, and UI Design.
+- 🤝 I'm open to collaborating on exciting new projects.
+- 🤔 Need help with coding? I'm here to assist you!
 - 📫 How to reach me: [Developer Portal](**coding.developerportal@gmail.com**)
 
 <br/>
