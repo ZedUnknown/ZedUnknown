@@ -34,7 +34,7 @@
 
 <p align="left">
 
-[<img width="35" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/gmail.png"/>](https://mail.google.com/mail/u/?authuser=coding.developerportal@gmail.com)
+[<img width="35" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/gmail.png"/>](https://mail.google.com/mail/u/?authuser=mail@dev-portal.dev)
 [<img width="35" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/discord.png"/>](https://discordapp.com/users/770312122273234955)
 [<img width="35" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/whatsapp.png "/>](https://wa.me/message/4CNADM4GWHQQL1)
 
