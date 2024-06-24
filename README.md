@@ -33,11 +33,15 @@
 ### Connect with me:
 
 <p align="left">
-
-[<img width="35" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/gmail.png"/>](https://mail.google.com/mail/u/?authuser=mail@dev-portal.dev)
-[<img width="35" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/discord.png"/>](https://discordapp.com/users/770312122273234955)
-
+    <a href="mailto:mail@dev-portal.dev?subject=From%20Github&body=Dear%20Zed,%0D%0A%0D%0ABest%20regards,%0D%0A%0D%0A[Your%20Name]%0D%0ADeveloper%20Portal">
+        <img width="35" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/gmail.png" />
+    </a>
+    <a href="https://discordapp.com/users/770312122273234955">
+        <img width="35" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/discord.png"/>
+    </a>
 </p>
+
+
 
 <br/>
 
