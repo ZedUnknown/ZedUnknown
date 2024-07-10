@@ -32,14 +32,9 @@
 
 ### Connect with me:
 
-<p align="left">
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mail@dev-portal.dev&su=From%20Github%20Contributor&body=Dear%20Zed,%0D%0A%0D%0A%0D%0A%0D%0A%0D%0ABest%20regards,%0D%0A[Your%20Name]%0D%0ADeveloper%20Portal">
-        <img width="35" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/gmail.png" />
-    </a>
-    <a href="https://discordapp.com/users/770312122273234955">
-        <img width="35" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/discord.png"/>
-    </a>
-</p>
+
+[![Gmail](https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/gmail.png)](https://mail.google.com/mail/?view=cm&fs=1&to=mail@dev-portal.dev&su=From%20Github%20Contributor&body=Dear%20Zed,%0D%0A%0D%0A%0D%0A%0D%0A%0D%0ABest%20regards,%0D%0A[Your%20Name]%0D%0ADeveloper%20Portal)
+[![Discord](https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/social-media/discord.png)](https://discordapp.com/users/770312122273234955)
 
 
 
