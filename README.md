@@ -26,7 +26,7 @@
 - 📕 I'm actively learning Redhat, Frontend Development, and UI Design.
 - 🤝 I'm open to collaborating on exciting new projects.
 - 🤔 Need help with coding? I'm here to assist you!
-- 📫 How to reach me: [Developer Portal](**coding.developerportal@gmail.com**)
+- 📫 How to reach me: [Developer Portal](https://mail.google.com/mail/?view=cm&fs=1&to=mail@dev-portal.dev&su=From%20Github%20Contributor&body=Dear%20Zed,%0D%0A%0D%0A%0D%0A%0D%0A%0D%0ABest%20regards,%0D%0A[Your%20Name]%0D%0ADeveloper%20Portal)
 
 <br/>
 
