@@ -60,13 +60,11 @@
 &nbsp;
 <a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/java-script.png"/></a>
 &nbsp;
-<a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/cplusplus.png"/></a>
-&nbsp;
-<a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/c.png"/></a>
+<a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/java.png"/></a>
 </p>
 <br/>
 <p align="center">
-<a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/git.png"/></a>
+<a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/tensorflow.png"/></a>
 &nbsp;
 <a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/firebase.png"/></a>
 &nbsp;
