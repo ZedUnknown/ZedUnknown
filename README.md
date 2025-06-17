@@ -18,7 +18,6 @@ I'm a passionate developer and independent learner focused on building intellige
 
 <br/>
 
-
 ### Areas of Focus
 
 - AI systems and neural architectures  
