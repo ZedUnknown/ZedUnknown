@@ -2,15 +2,13 @@
   <a href="#">
     <img width="50px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/github.gif" />
   </a>
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Japanese&size=35&duration=3500&pause=3000&color=00cf03&center=true&vCenter=true&width=450&height=40&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC+!" /></a>
-
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&duration=3000&pause=3000&color=F73B3B&center=true&vCenter=true&width=435&lines=Welcome;I'm+Zed;print(%22Hello+World!%22)" alt="Typing SVG" /></a>
   <a href="#">
     <img width="50px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/github.gif" />
  </a>
- 
 </h1>
 
-<a href="#"><img width="1012px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/background.gif"/></a>
+<a href="#"><img width="1012px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFqOWJ3azR2OHdwajdxaDlsYmI0dnFpZGR6NmxmeW1zMWVjOHprNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"/></a>
 
 I'm a passionate developer and independent learner focused on building intelligent systems. My current work includes developing a **transformer-based AI model** from the ground up and exploring advanced topics in **machine learning**, **language modeling**, and **system design**.
 
