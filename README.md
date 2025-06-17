@@ -8,7 +8,7 @@
  </a>
 </h1>
 
-<a href="#"><img width="1012px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFqOWJ3azR2OHdwajdxaDlsYmI0dnFpZGR6NmxmeW1zMWVjOHprNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"/></a>
+<a href="#"><img width="1012px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN3bXc4YXFjMTJ2ZzgybzRtM2JjM2Npd3o4emc3bm00eTk4a3Y2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif"/></a>
 
 I'm a passionate developer and independent learner focused on building intelligent systems. My current work includes developing a **transformer-based AI model** from the ground up and exploring advanced topics in **machine learning**, **language modeling**, and **system design**.
 
