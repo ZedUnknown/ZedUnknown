@@ -8,7 +8,7 @@
  </a>
 </h1>
 
-<a href="#"><img width="1012px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN3bXc4YXFjMTJ2ZzgybzRtM2JjM2Npd3o4emc3bm00eTk4a3Y2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif"/></a>
+<a href="#"><img width="1012px" src="https://github.com/DaveUnknown/image-library/blob/main/zed/star-wars-christmas.png"/></a>
 
 I'm a passionate developer and independent learner focused on building intelligent systems. My current work includes developing a **transformer-based AI model** from the ground up and exploring advanced topics in **machine learning**, **language modeling**, and **system design**.
 
@@ -69,7 +69,7 @@ I'm a passionate developer and independent learner focused on building intellige
 <br/>
 <br/>
 <br/>
-  
+
 <div align="center">
   <h2>Contribution Graph</h2>
   <a href="#"><img src="https://raw.githubusercontent.com/ZedUnknown/ZedUnknown/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph"></a>
