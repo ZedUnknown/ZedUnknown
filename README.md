@@ -8,7 +8,7 @@
  </a>
 </h1>
 
-<a href="#"><img width="1012px" src="https://github.com/DaveUnknown/image-library/blob/main/zed/star-wars-christmas.png"/></a>
+<a href="#"><img width="1012px" src="https://github.com/DaveUnknown/image-library/blob/main/zed/star-wars-christmas-framed.png"/></a>
 
 I'm a passionate developer and independent learner focused on building intelligent systems. My current work includes developing a **transformer-based AI model** from the ground up and exploring advanced topics in **machine learning**, **language modeling**, and **system design**.
 
