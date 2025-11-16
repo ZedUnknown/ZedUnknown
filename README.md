@@ -59,13 +59,13 @@ I'm a passionate developer and independent learner focused on building intellige
 </p>
 <br/>
 <p align="center">
-<a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/tensorflow.png"/></a>
-&nbsp;
-<a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/firebase.png"/></a>
-&nbsp;
 <a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/vs-code.png"/></a>
 &nbsp;
 <a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/jupyter.png"/></a>
+&nbsp;
+<a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/docker.png"/></a>
+&nbsp;
+<a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/tensorflow.png"/></a>
 &nbsp;
 <a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/tools/ubuntu.png"/></a>
 
