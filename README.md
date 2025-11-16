@@ -51,6 +51,10 @@ I'm a passionate developer and independent learner focused on building intellige
 &nbsp;
 <a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/java-script.png"/></a>
 &nbsp;
+<a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/typescript.png"/></a>
+&nbsp;
+<a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/svelte.svg"/></a>
+&nbsp;
 <a href="#"><img align="center" height="40" width="40" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/ico/languages/java.png"/></a>
 </p>
 <br/>
