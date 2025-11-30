@@ -14,7 +14,7 @@ I'm a passionate developer and independent learner focused on building intellige
 
 <br/>
 
-<a href="#"><img align="right" width="350px" src="https://cdn.discordapp.com/avatar-decoration-presets/a_19e053e58025f79b2d5fbb0b891408f1.png?size=96&passthrough=true" ></a>
+<a href="#"><img align="right" width="350px" src="https://github.com/ZedUnknown/ZedUnknown/blob/main/img/gif/frontiers.gif" ></a>
 
 <br/>
 
