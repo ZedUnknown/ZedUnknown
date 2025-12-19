@@ -1,11 +1,7 @@
 <h1 align="center">
-  <a href="#">
-    <img width="55px" src="https://cdn.discordapp.com/avatar-decoration-presets/a_81468ad7bd35e0017db82ea35ab63ecb.png?size=96&passthrough=true" />
-  </a>
+
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&duration=3000&pause=3000&color=F73B3B&center=true&vCenter=true&width=435&lines=Welcome;I'm+Zed;print(%22Hello+World!%22)" alt="Typing SVG" /></a>
-  <a href="#">
-    <img width="55px" src="https://cdn.discordapp.com/avatar-decoration-presets/a_81468ad7bd35e0017db82ea35ab63ecb.png?size=96&passthrough=true" />
- </a>
+
 </h1>
 
 <a href="#"><img width="1012px" src="https://github.com/DaveUnknown/image-library/blob/main/zed/star-wars-christmas-framed.png"/></a>
